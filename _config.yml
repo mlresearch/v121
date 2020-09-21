@@ -1,0 +1,91 @@
+---
+year: '2020'
+volume: 121
+booktitle: Proceedings of the Third Conference on Medical Imaging with Deep Learning
+end: 2020-07-08
+shortname: MIDL
+start: 2020-07-06
+published: 2020-09-21
+url: http://proceedings.mlr.press
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: MIDL-2020
+month: 0
+cycles: false
+bibtex_editor: Arbel, Tal and {Ben Ayed}, Ismail and {de Bruijne}, Marleen and Descoteaux,
+  Maxime and Lombaert, Herve and Pal, Christopher
+editor:
+- given: Tal
+  family: Arbel
+- given: Ismail
+  family: Ben Ayed
+- given: Marleen
+  family: de Bruijne
+- given: Maxime
+  family: Descoteaux
+- given: Herve
+  family: Lombaert
+- given: Christopher
+  family: Pal
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Third Conference on Medical Imaging with Deep Learning
+    Held in Montreal, QC, Canada on 06-08 July 2020
+
+  Published as Volume 121 by the Proceedings of Machine Learning Research on 21 September 2020.
+
+  Volume Edited by:
+    Tal Arbel
+    Ismail Ben Ayed
+    Marleen de Bruijne
+    Maxime Descoteaux
+    Herve Lombaert
+    Christopher Pal
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: 06--08 Jul
+author:
+  name: PMLR
+baseurl: "/v121"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v121
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: Medical Imaging with Deep Learning
+  url: 
+  location: Montreal, QC, Canada
+  dates:
+  - 2020-07-06
+  - 2020-07-07
+  - 2020-07-08
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v121/MIDL2020.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v121/MIDL2020.bib
